@@ -1,54 +1,87 @@
-# CraftJS 
+# CraftJS
 
-A hands-on journey of building JavaScript projects to strengthen core development skills through practice.
-
----
-
-##  About
-This repository contains daily JavaScript projects focused on improving fundamentals, problem-solving, and real-world implementation.
+A hands-on journey of building JavaScript projects to strengthen core development skills through real-world practice.
 
 ---
 
-## 1 : Drum Kit
-An interactive drum kit using keyboard inputs.
+## About
 
-### What I Learned
-- Handling keyboard events (`keydown`)
-- Playing audio dynamically using JavaScript
-- Syncing UI with sound
-- CSS animations (transitions + transforms)
+This repository contains a series of small but impactful JavaScript projects.
+The goal is simple: **learn by building, not just watching tutorials.**
+
+Each project focuses on core concepts like DOM manipulation, events, animations, and problem-solving.
 
 ---
 
-## 2 : JS Clock
+## Day 1: Drum Kit
+
+An interactive drum kit controlled using keyboard inputs.
+
+### Key Learnings
+
+* Handling keyboard events (`keydown`)
+* Playing audio dynamically with JavaScript
+* Syncing UI feedback with sound
+* CSS animations using transitions & transforms
+
+---
+
+## Day 2: JS Clock
+
 A real-time analog clock built using JavaScript.
 
-### What I Learned
-- Working with `Date` object
-- Calculating rotation angles for clock hands
-- Smooth animations using `transform: rotate()`
-- Fixing timing glitches using milliseconds
-- DOM manipulation for dynamic updates
+### Key Learnings
+
+* Working with the `Date` object
+* Calculating rotation angles for clock hands
+* Smooth animations using `transform: rotate()`
+* Fixing timing glitches using milliseconds
+* DOM manipulation for real-time updates
+
+---
+
+## Day 3: CSS Variables Controller
+
+A dynamic UI to control CSS variables (blur, spacing, color) using JavaScript.
+
+### Key Learnings
+
+* CSS Custom Properties (`:root`, `--variables`)
+* Updating styles dynamically with `setProperty()`
+* Handling input events for real-time updates
+* Building interactive UI controls
 
 ---
 
 ## Goal
-To become a better developer by building consistently and learning by doing.
+
+To become a better developer through **consistent building and deep understanding of fundamentals**.
 
 ---
 
 ## Tech Stack
-- HTML5
-- CSS3
-- JavaScript
+
+* HTML5
+* CSS3
+* JavaScript
 
 ---
 
 ## Progress
-- ✅ Day 1: Drum Kit  
-- ✅ Day 2: JS Clock  
-- ⏳ More coming...
+
+* ✅ Day 1: Drum Kit
+* ✅ Day 2: JS Clock
+* ✅ Day 3: CSS Variables Controller
+* ⏳ More coming...
 
 ---
 
-Stay consistent. Building > watching tutorials.
+## Philosophy
+
+> Consistency beats intensity. Building > Watching.
+
+---
+
+## Connect
+
+If you're also building daily, let's connect and grow together.
